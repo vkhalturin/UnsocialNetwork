@@ -12,7 +12,7 @@ namespace N.UnsocialNetwork.Web.Controllers
     [Authorize]
     public partial class AccountController : Controller
     {
-
+        //TEST COMMENT
         //
         // GET: /Account/Login
 
